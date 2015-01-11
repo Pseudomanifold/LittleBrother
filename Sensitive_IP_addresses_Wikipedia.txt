@@ -1,0 +1,24 @@
+82.148.96.68        The nation of Qatar
+82.148.97.69        The nation of Qatar
+143.228.0.0/16      United States House of Representatives
+143.231.0.0/16      United States House of Representatives
+137.18.0.0/16       United States House of Representatives
+12.185.56.0/29      United States House of Representatives
+12.147.170.144/28   United States House of Representatives
+74.119.128.0/22     United States House of Representatives
+156.33.0.0/16       United States Senate
+149.101.0.0/16      United States Department of Justice
+65.165.132.0/24     United States Department of Homeland Security
+204.248.24.0/24     United States Department of Homeland Security
+216.81.80.0/20      United States Department of Homeland Security
+192.197.77.0/24     Government of Canada
+192.197.78.0/23     Government of Canada
+192.197.80.0/22     Government of Canada
+192.197.84.0/23     Government of Canada
+192.197.86.0/24     Government of Canada
+131.132.0.0/14      Canadian Department of National Defence
+131.136.0.0/14      Canadian Department of National Defence
+131.140.0.0/15      Canadian Department of National Defence
+192.197.82.0/24     Canadian House of Commons
+194.60.0.0/18       Parliament of the United Kingdom
+138.162.0.0/16      United States Department of the Navy and United States Marine Corps
