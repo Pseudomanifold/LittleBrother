@@ -79,7 +79,7 @@ if __name__ == "__main__":
   networks  = readNetworks(sys.argv[1])
   addresses = readLog(sys.argv[2])
 
-  for address, count in addresses.most_common():
+  for address, count in sorted(addresses.most_common()):
     for network, description in networks:
       if address in network:
         print("Counted %d visits from %s (%s)" % (count, address, description))
